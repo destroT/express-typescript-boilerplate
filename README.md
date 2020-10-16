@@ -1,2 +1,2 @@
 # express-typescript-boilerplate
-Boilerplate for Node-Express TypeScript Porject
+Boilerplate for Node-Express TypeScript Project
